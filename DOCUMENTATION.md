@@ -220,3 +220,8 @@ To set up and deploy the API, follow these steps:
 
 For production deployment, consider using a production-ready web server and database setup. 
 Check out [this guide](https://render.com/docs/deploy-node-express-app) for more information.
+
+
+## UML Diagram
+ 
+![UML Diagram](https://firebasestorage.googleapis.com/v0/b/linkedin-clone-f330f.appspot.com/o/categories%2FUML.drawio%20(1).jpeg?alt=media&token=7ffe90db-dedb-4b18-ae7a-981032cf3c83)
