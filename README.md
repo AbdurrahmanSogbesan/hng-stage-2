@@ -12,7 +12,6 @@ This is a RESTful API built with Node.js, Express, and MongoDB to perform CRUD o
 - [Sample Requests and Responses](#sample-requests-and-responses)
 - [Known Limitations](#known-limitations)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
