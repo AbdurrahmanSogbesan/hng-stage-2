@@ -220,13 +220,3 @@ To set up and deploy the API, follow these steps:
 
 For production deployment, consider using a production-ready web server and database setup. 
 Check out [this guide](https://render.com/docs/deploy-node-express-app) for more information.
-
----
-
-This document provides comprehensive information about the API, including request/response formats, sample usage, limitations, and setup instructions. If you have any questions or encounter issues, please contact our support team.
-
-Thank you for using our API!
-
----
-
-Feel free to customize and expand this documentation further to suit your specific needs and requirements.
